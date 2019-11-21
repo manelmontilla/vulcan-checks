@@ -14,9 +14,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/adevinta/vulcan-check-sdk"
-	"github.com/adevinta/vulcan-check-sdk/state"
 	"github.com/adevinta/vulcan-report"
+	"github.com/manelmontilla/vulcan-check-sdk"
+	"github.com/manelmontilla/vulcan-check-sdk/state"
 )
 
 type certificateChecker struct {

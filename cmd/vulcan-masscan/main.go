@@ -10,10 +10,10 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/adevinta/vulcan-check-sdk"
-	"github.com/adevinta/vulcan-check-sdk/helpers"
-	"github.com/adevinta/vulcan-check-sdk/state"
 	"github.com/adevinta/vulcan-report"
+	"github.com/manelmontilla/vulcan-check-sdk"
+	"github.com/manelmontilla/vulcan-check-sdk/helpers"
+	"github.com/manelmontilla/vulcan-check-sdk/state"
 	"github.com/sirupsen/logrus"
 )
 

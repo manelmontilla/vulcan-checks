@@ -10,10 +10,10 @@ import (
 	gonmap "github.com/lair-framework/go-nmap"
 	"github.com/sirupsen/logrus"
 
-	"github.com/adevinta/vulcan-check-sdk"
-	"github.com/adevinta/vulcan-check-sdk/helpers/nmap"
-	"github.com/adevinta/vulcan-check-sdk/state"
 	"github.com/adevinta/vulcan-report"
+	"github.com/manelmontilla/vulcan-check-sdk"
+	"github.com/manelmontilla/vulcan-check-sdk/helpers/nmap"
+	"github.com/manelmontilla/vulcan-check-sdk/state"
 )
 
 type options struct {

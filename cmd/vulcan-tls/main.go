@@ -9,10 +9,10 @@ import (
 	"time"
 	"unicode"
 
-	check "github.com/adevinta/vulcan-check-sdk"
-	"github.com/adevinta/vulcan-check-sdk/helpers/command"
-	"github.com/adevinta/vulcan-check-sdk/state"
 	report "github.com/adevinta/vulcan-report"
+	check "github.com/manelmontilla/vulcan-check-sdk"
+	"github.com/manelmontilla/vulcan-check-sdk/helpers/command"
+	"github.com/manelmontilla/vulcan-check-sdk/state"
 )
 
 const (

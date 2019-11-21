@@ -5,9 +5,9 @@ import (
 	"errors"
 
 	"github.com/FiloSottile/Heartbleed/heartbleed"
-	"github.com/adevinta/vulcan-check-sdk"
-	"github.com/adevinta/vulcan-check-sdk/state"
 	"github.com/adevinta/vulcan-report"
+	"github.com/manelmontilla/vulcan-check-sdk"
+	"github.com/manelmontilla/vulcan-check-sdk/state"
 )
 
 var (

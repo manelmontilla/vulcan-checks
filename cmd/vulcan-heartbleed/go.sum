@@ -2,8 +2,8 @@ github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/FiloSottile/Heartbleed v0.2.1-0.20150408030656-4a3332ca1dc0 h1:pWdGR+PGA/VcaOyXbbQWOKjZ8BXN3SxX6UL3iMcjASA=
 github.com/FiloSottile/Heartbleed v0.2.1-0.20150408030656-4a3332ca1dc0/go.mod h1:Z5mkLqABxBdOOdi4HTYsWUD5DppI0KREf3uDOTAW/gY=
-github.com/adevinta/vulcan-check-sdk v0.0.0-20190916123546-100c3a96f161 h1:gaACJ3cX0+V7IldTRbrkHl0X3GhBONl/S8oBUqsvg8E=
-github.com/adevinta/vulcan-check-sdk v0.0.0-20190916123546-100c3a96f161/go.mod h1:qDsh1pwg/31OynM/c/OykHqT3/3Mxwh6ajpsVjpVir8=
+github.com/manelmontilla/vulcan-check-sdk v0.0.0-20190916123546-100c3a96f161 h1:gaACJ3cX0+V7IldTRbrkHl0X3GhBONl/S8oBUqsvg8E=
+github.com/manelmontilla/vulcan-check-sdk v0.0.0-20190916123546-100c3a96f161/go.mod h1:qDsh1pwg/31OynM/c/OykHqT3/3Mxwh6ajpsVjpVir8=
 github.com/adevinta/vulcan-report v0.0.0-20190503133936-d8a2d4cb18ff h1:ZazuZSOfV8oo70SWdjLQi+In4GSmJCA2rwsliyz9KNs=
 github.com/adevinta/vulcan-report v0.0.0-20190503133936-d8a2d4cb18ff/go.mod h1:GtAon6TymHFTOPwRdR7SHun/TSM1kyPMQYXxGLTR8eQ=
 github.com/aws/aws-sdk-go v1.24.0 h1:TtQCY3HaFXeo1yg2JAdfSbpN/Nsd9V5SCfDksEf2nSE=

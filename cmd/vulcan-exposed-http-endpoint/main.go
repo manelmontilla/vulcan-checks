@@ -13,10 +13,10 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/adevinta/vulcan-check-sdk"
-	"github.com/adevinta/vulcan-check-sdk/state"
 	"github.com/adevinta/vulcan-checks/cmd/vulcan-exposed-http-endpoint/path"
 	"github.com/adevinta/vulcan-report"
+	"github.com/manelmontilla/vulcan-check-sdk"
+	"github.com/manelmontilla/vulcan-check-sdk/state"
 )
 
 /*

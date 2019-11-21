@@ -5,8 +5,8 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/adevinta/vulcan-check-sdk/state"
 	"github.com/adevinta/vulcan-report"
+	"github.com/manelmontilla/vulcan-check-sdk/state"
 )
 
 // CSP group of vulnerabilities.

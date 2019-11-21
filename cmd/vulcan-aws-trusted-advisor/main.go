@@ -19,10 +19,10 @@ import (
 	"github.com/aws/aws-sdk-go/service/support"
 	"github.com/sirupsen/logrus"
 
-	"github.com/adevinta/vulcan-check-sdk"
-	"github.com/adevinta/vulcan-check-sdk/state"
-	"github.com/adevinta/vulcan-report"
+	report "github.com/adevinta/vulcan-report"
 	"github.com/aws/aws-sdk-go/aws/arn"
+	check "github.com/manelmontilla/vulcan-check-sdk"
+	"github.com/manelmontilla/vulcan-check-sdk/state"
 )
 
 const (

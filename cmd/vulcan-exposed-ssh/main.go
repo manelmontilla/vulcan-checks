@@ -8,10 +8,10 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/adevinta/vulcan-check-sdk"
-	"github.com/adevinta/vulcan-check-sdk/state"
 	"github.com/adevinta/vulcan-report"
 	version "github.com/hashicorp/go-version"
+	"github.com/manelmontilla/vulcan-check-sdk"
+	"github.com/manelmontilla/vulcan-check-sdk/state"
 )
 
 type result []sshScanReport

@@ -7,9 +7,9 @@ import (
 	"regexp"
 	"strings"
 
-	check "github.com/adevinta/vulcan-check-sdk"
-	"github.com/adevinta/vulcan-check-sdk/state"
 	report "github.com/adevinta/vulcan-report"
+	check "github.com/manelmontilla/vulcan-check-sdk"
+	"github.com/manelmontilla/vulcan-check-sdk/state"
 )
 
 var (

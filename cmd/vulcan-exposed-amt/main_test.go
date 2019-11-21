@@ -8,11 +8,11 @@ import (
 	"testing"
 	"time"
 
-	check "github.com/adevinta/vulcan-check-sdk"
-	"github.com/adevinta/vulcan-check-sdk/agent"
-	"github.com/adevinta/vulcan-check-sdk/config"
-	"github.com/adevinta/vulcan-check-sdk/tools"
 	report "github.com/adevinta/vulcan-report"
+	check "github.com/manelmontilla/vulcan-check-sdk"
+	"github.com/manelmontilla/vulcan-check-sdk/agent"
+	"github.com/manelmontilla/vulcan-check-sdk/config"
+	"github.com/manelmontilla/vulcan-check-sdk/tools"
 )
 
 type buildTestServer func() *httptest.Server

@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect
-	github.com/adevinta/vulcan-check-sdk v0.0.0-20190916123546-100c3a96f161
+	github.com/manelmontilla/vulcan-check-sdk v0.0.0-20190916123546-100c3a96f161
 	github.com/adevinta/vulcan-report v0.0.0-20190503133936-d8a2d4cb18ff
 	github.com/aws/aws-sdk-go v1.24.0 // indirect
 	github.com/kr/pretty v0.1.0 // indirect

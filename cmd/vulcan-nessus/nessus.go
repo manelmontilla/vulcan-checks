@@ -15,8 +15,8 @@ import (
 	log "github.com/sirupsen/logrus"
 
 	"github.com/adevinta/restuss"
-	"github.com/adevinta/vulcan-check-sdk/state"
 	report "github.com/adevinta/vulcan-report"
+	"github.com/manelmontilla/vulcan-check-sdk/state"
 )
 
 // Runner executes a Nessus check.

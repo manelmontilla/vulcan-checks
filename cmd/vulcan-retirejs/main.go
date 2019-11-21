@@ -11,10 +11,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/adevinta/vulcan-check-sdk"
-	"github.com/adevinta/vulcan-check-sdk/helpers/command"
-	"github.com/adevinta/vulcan-check-sdk/state"
 	"github.com/adevinta/vulcan-report"
+	"github.com/manelmontilla/vulcan-check-sdk"
+	"github.com/manelmontilla/vulcan-check-sdk/helpers/command"
+	"github.com/manelmontilla/vulcan-check-sdk/state"
 	"github.com/satori/go.uuid"
 	"github.com/sirupsen/logrus"
 	"github.com/yhat/scrape"

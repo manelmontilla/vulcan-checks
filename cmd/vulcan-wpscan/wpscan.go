@@ -8,7 +8,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/adevinta/vulcan-check-sdk/helpers/command"
+	"github.com/manelmontilla/vulcan-check-sdk/helpers/command"
 )
 
 var (

@@ -14,8 +14,8 @@ import (
 	version "github.com/knqyf263/go-rpm-version"
 	"gopkg.in/resty.v1"
 
-	"github.com/adevinta/vulcan-check-sdk"
-	"github.com/adevinta/vulcan-check-sdk/state"
+	"github.com/manelmontilla/vulcan-check-sdk"
+	"github.com/manelmontilla/vulcan-check-sdk/state"
 )
 
 var checkName = "vulcan-docker-image"

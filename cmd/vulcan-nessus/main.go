@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	check "github.com/adevinta/vulcan-check-sdk"
+	check "github.com/manelmontilla/vulcan-check-sdk"
 )
 
 var (

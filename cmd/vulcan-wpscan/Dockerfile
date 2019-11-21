@@ -1,7 +1,7 @@
 FROM ruby:2.4-slim
 
 # Install WPScan
-RUN apt-get update && apt-get install -y curl libcurl4 procps sqlite git \
+RUN apt-get update && apt-get install -y curl libcurl4-openssl-dev procps sqlite git \
     ruby-dev libffi-dev make gcc musl-dev zlib1g-dev procps libsqlite3-dev && \
     rm -rf /var/lib/apt/lists/*
 ARG BUNDLER_ARGS="--jobs=8 --without test development"

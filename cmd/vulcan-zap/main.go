@@ -10,9 +10,9 @@ import (
 	"strconv"
 	"time"
 
-	check "github.com/adevinta/vulcan-check-sdk"
-	"github.com/adevinta/vulcan-check-sdk/state"
 	report "github.com/adevinta/vulcan-report"
+	check "github.com/manelmontilla/vulcan-check-sdk"
+	"github.com/manelmontilla/vulcan-check-sdk/state"
 	"github.com/sirupsen/logrus"
 	"github.com/zaproxy/zap-api-go/zap"
 )

@@ -12,9 +12,9 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/adevinta/vulcan-check-sdk"
-	"github.com/adevinta/vulcan-check-sdk/state"
 	"github.com/adevinta/vulcan-report"
+	"github.com/manelmontilla/vulcan-check-sdk"
+	"github.com/manelmontilla/vulcan-check-sdk/state"
 )
 
 // NOTE: should we drop all scores to NONE? 'missing DKIM' is rated as INFO on
